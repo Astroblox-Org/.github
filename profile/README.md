@@ -1,12 +1,7 @@
-## Hi there 👋
+# Astroblox GitHub Cloud Organization
 
-<!--
+![Astroblox_hero_image]()
 
-**Here are some ideas to get you started:**
+This is the Astroblox Cloud Organization, where we at astroblox contribute to the open source community. Help us reimagine the way people come together by submitting suggestions, fixes, or ideas.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
